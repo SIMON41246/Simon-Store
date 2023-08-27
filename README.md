@@ -1,4 +1,4 @@
-# ecommerce_app
+# Simon Shop
 
 A new Flutter project.
 
